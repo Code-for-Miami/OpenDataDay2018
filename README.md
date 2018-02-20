@@ -1,4 +1,4 @@
-# OpenDataDay2018
+# Open Data Day 2018
 Code For Miami's Open Data Day 2018 Projects
 
 ## March 3 @FIU School of Communication + Journalism
@@ -11,7 +11,7 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 
 ### :book: Guides
 
-* [Getting Started with Open Data Day 2017](https://docs.google.com/document/d/1GnHgqcp_uCoGVXs1nHjqZ3WbMSLqb5lEBmZ9LbDzMNU/edit?usp=sharing)
+* [Getting Started with Open Data Day 2018](https://docs.google.com/document/d/1GnHgqcp_uCoGVXs1nHjqZ3WbMSLqb5lEBmZ9LbDzMNU/edit?usp=sharing)
 
 * [Hack Projects Guide](https://github.com/Code-for-Miami/OpenDataDay2018/blob/master/guides/Hack.md)
 
