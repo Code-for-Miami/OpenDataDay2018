@@ -9,7 +9,7 @@ If you have chose to hack on a project you are in the right place.
 3. Drop this info into your README.
 
   ```markdown
-    ![Open Data Day Logo](https://github.com/Code-for-Miami/OpenDataDay2018/codeformiamilogo.png.png)
+    ![Open Data Day Logo](https://github.com/Code-for-Miami/OpenDataDay2018/codeformiamilogo.png)
 
     # Miami Open Data Day 2018
 
