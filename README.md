@@ -19,6 +19,9 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 
 ## Here is some data we recommend you work with:
 
+ * [City of Miami Open Data Portal - NEW!](https://data.miamigov.com/)
+ * [Open 211 Data Portal](http://miami.open.211.developer.adopta.agency/)
+ * [Miami-Dade County Open Data Portal](https://opendata.miamidade.gov/)
  * [Climate Change Toolkit](https://toolkit.climate.gov/)
  * [Miami Dade County GIS](http://gis-mdc.opendata.arcgis.com/)
  * [NOAA Data Tools](https://www.ncdc.noaa.gov/cdo-web/datatools)
@@ -38,21 +41,25 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 
 **09:00** — Breakfast
 
-**10:00** — Opening Remarks
+**09:30** — Opening Remarks - Dean Brian Schriner, FIU College of Communication, Architecture + the Arts
 
-**11:00** — Start Projects
+**10:00** — Start Projects
 
-**12:30** — Lunch
+**10:00-11:15** — WORKSHOP: Google MyMaps and Fusion Tables
 
-**01:00** — Resume
+**11:15-12:30** — WORKSHOP: ArcGIS Online and StoryMaps
 
-**03:00** — Prep Presentations
+**12:30** — Lunch. GUEST SPEAKER: Valencia Gunder
+
+**01:30** — Resume
+
+**04:00** — Prep Presentations
 
 Each group will present their progress, information discovered and supplied for their respect coverage areas.
 
-**04:00** — Presentations
+**04:30** — Presentations
 
-**04:30** — Closing Remarks / END
+**05:00** — Closing Remarks / END
 
 ## Presentation Information
 
