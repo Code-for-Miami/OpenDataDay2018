@@ -23,8 +23,6 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 
 * [Hack Projects Guide](https://github.com/Code-for-Miami/OpenDataDay2018/blob/master/guides/Hack.md)
 
-* [Climate Change Toolkit Guide](https://github.com/Code-for-Miami/OpenDataDay2017/blob/master/guides/ClimateToolKit.md)
-
 ## Here is some data we recommend you work with:
 
  * [City of Miami Open Data Portal - NEW!](https://data.miamigov.com/)
