@@ -7,7 +7,7 @@ Code For Miami's Open Data Day 2018 Projects
 - [:bulb: Browse and Discuss Projects](https://github.com/Code-for-Miami/OpenDataDay2018/issues)
 - [:star2: Propose a Project](https://github.com/Code-for-Miami/OpenDataDay2018/issues/new)
 
-If you need help or have some specific questions, email co-captains [Julie](mailto:juliekramer@codeforamerica.org), [Chris](mailto:cyberstrike@gmail.com), or [Danielle](mailto:dungermann@codeforamerica.org). You can also [invite yourself](http://cfm-invite.herokuapp.com) to the [Code for Miami Slack group](http://codeformiami.slack.com)! We will be on channel `#opendataday`.
+If you need help or have some specific questions, email co-captains [Julie](mailto:juliekramer@codeforamerica.org), [Chris](mailto:cyberstrike@gmail.com), or [Danielle](mailto:dungermann@codeforamerica.org). You can also [invite yourself](http://cfm-invite.herokuapp.com) to the [Code for Miami Slack group](http://codeformiami.slack.com)! We will be on channel `#opendataday2018`.
 
 ### :wrench: Tools
 * [Datazar](https://www.datazar.com)
