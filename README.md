@@ -9,6 +9,14 @@ Code For Miami's Open Data Day 2018 Projects
 
 If you need help or have some specific questions, email co-captains [Julie](mailto:juliekramer@codeforamerica.org), [Chris](mailto:cyberstrike@gmail.com), or [Danielle](mailto:dungermann@codeforamerica.org). You can also [invite yourself](http://cfm-invite.herokuapp.com) to the [Code for Miami Slack group](http://codeformiami.slack.com)! We will be on channel `#opendataday`.
 
+### :wrench: Tools
+* [Datazar](https://www.datazar.com)
+
+* [Kumu](http://kumu.io)
+
+* [data.world](http://data.world)
+
+
 ### :book: Guides
 
 * [Getting Started with Open Data Day 2018](https://docs.google.com/document/d/1GnHgqcp_uCoGVXs1nHjqZ3WbMSLqb5lEBmZ9LbDzMNU/edit?usp=sharing)
